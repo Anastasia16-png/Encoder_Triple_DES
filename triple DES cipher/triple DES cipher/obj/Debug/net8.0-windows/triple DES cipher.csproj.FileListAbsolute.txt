@@ -1,0 +1,19 @@
+D:\універ\4 курс\Головко\triple DES cipher\triple DES cipher\obj\Debug\net8.0-windows\triple_DES_cipher.Forms.EncryptDecryptFilePage.resources
+D:\універ\4 курс\Головко\triple DES cipher\triple DES cipher\obj\Debug\net8.0-windows\triple_DES_cipher.Forms.EncryptDecryptMessagePage.resources
+D:\універ\4 курс\Головко\triple DES cipher\triple DES cipher\obj\Debug\net8.0-windows\triple_DES_cipher.LoginPage.resources
+D:\універ\4 курс\Головко\triple DES cipher\triple DES cipher\obj\Debug\net8.0-windows\triple_DES_cipher.Forms.MainPage.resources
+D:\універ\4 курс\Головко\triple DES cipher\triple DES cipher\obj\Debug\net8.0-windows\triple DES cipher.csproj.GenerateResource.cache
+D:\універ\4 курс\Головко\triple DES cipher\triple DES cipher\obj\Debug\net8.0-windows\triple DES cipher.GeneratedMSBuildEditorConfig.editorconfig
+D:\універ\4 курс\Головко\triple DES cipher\triple DES cipher\obj\Debug\net8.0-windows\triple DES cipher.AssemblyInfoInputs.cache
+D:\універ\4 курс\Головко\triple DES cipher\triple DES cipher\obj\Debug\net8.0-windows\triple DES cipher.AssemblyInfo.cs
+D:\універ\4 курс\Головко\triple DES cipher\triple DES cipher\obj\Debug\net8.0-windows\triple DES cipher.csproj.CoreCompileInputs.cache
+D:\універ\4 курс\Головко\triple DES cipher\triple DES cipher\bin\Debug\net8.0-windows\triple DES cipher.exe
+D:\універ\4 курс\Головко\triple DES cipher\triple DES cipher\bin\Debug\net8.0-windows\triple DES cipher.deps.json
+D:\універ\4 курс\Головко\triple DES cipher\triple DES cipher\bin\Debug\net8.0-windows\triple DES cipher.runtimeconfig.json
+D:\універ\4 курс\Головко\triple DES cipher\triple DES cipher\bin\Debug\net8.0-windows\triple DES cipher.dll
+D:\універ\4 курс\Головко\triple DES cipher\triple DES cipher\bin\Debug\net8.0-windows\triple DES cipher.pdb
+D:\універ\4 курс\Головко\triple DES cipher\triple DES cipher\obj\Debug\net8.0-windows\triple DES cipher.dll
+D:\універ\4 курс\Головко\triple DES cipher\triple DES cipher\obj\Debug\net8.0-windows\refint\triple DES cipher.dll
+D:\універ\4 курс\Головко\triple DES cipher\triple DES cipher\obj\Debug\net8.0-windows\triple DES cipher.pdb
+D:\універ\4 курс\Головко\triple DES cipher\triple DES cipher\obj\Debug\net8.0-windows\triple DES cipher.genruntimeconfig.cache
+D:\універ\4 курс\Головко\triple DES cipher\triple DES cipher\obj\Debug\net8.0-windows\ref\triple DES cipher.dll
